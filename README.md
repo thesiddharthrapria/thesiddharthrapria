@@ -10,13 +10,12 @@
 <p align="center">
   <a href="https://github.com/thesiddharthrapria"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
-
  -->
 
-<a href="https://komarev.com/ghpvc/?username=thesiddharthrapria">
-  <img align="right" src="https://komarev.com/ghpvc/?username=thesiddharthrapria&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
@@ -24,13 +23,10 @@
         </samp>
 </h3>
 
-
 <p align="center"> 
   <samp>
 <!--     <a href="https://www.google.com/search?q=Siddharth+Rapria">「 Google Me 」</a> -->
-    <br>
     「 I am a full stack web application developer from <b>India</b> 」
-    <br>
     <br>
   </samp>
 </p>
@@ -42,12 +38,6 @@
  <a href="https://linkedin.com/in/siddharth-rapria-3b0295200" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Siddharth"/>
  </a>
-  <a href="" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Siddharth"/>
- </a>
-  <a href="" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Siddharth"/>
- </a>
 <!--  <a href="https://instagram.com/thesiddharthrapria" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Siddharth" />
  </a>  -->
@@ -56,6 +46,9 @@
   </a>  -->
 </p>
 <br />
+<a href="https://komarev.com/ghpvc/?username=thesiddharthrapria">
+  <img align="left" src="https://komarev.com/ghpvc/?username=thesiddharthrapria&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
 
 <!-- About Section -->
  # About me
@@ -64,7 +57,7 @@
  <img align="right" width="350" src="https://www.assignmentexpert.com/blog/wp-content/uploads/2020/12/self-learning-programming.jpg" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy to do programming <br/><br/>
- ❤️ &emsp; Love to write code and learning new features<br/><br/>
+ ❤️ &emsp; Love to write code and learn new features<br/><br/>
  📧 &emsp; Reach me anytime: siddharthr2202@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/thesiddharthrapria/thesiddharthrapria/issues)
 
@@ -75,15 +68,17 @@
 
 ## Use To Code
 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
