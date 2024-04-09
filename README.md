@@ -61,7 +61,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+ <img align="right" width="350" src="https://www.assignmentexpert.com/blog/wp-content/uploads/2020/12/self-learning-programming.jpg" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy to do programming <br/><br/>
  ❤️ &emsp; Love to write code and learning new features<br/><br/>
@@ -70,7 +70,6 @@
 
 </p>
 
-<br/>
 <br/>
 <br/>
 
@@ -91,7 +90,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
-<hr />
+
+## Streakometer
+
 <p align="center">
   <a href="https://github.com/thesiddharthrapria">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=thesiddharthrapria&theme=radical&border=7F3FBF&background=0D1117" alt="Siddharth's GitHub streak"/>
